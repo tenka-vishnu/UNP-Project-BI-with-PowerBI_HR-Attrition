@@ -8,4 +8,6 @@ With the given data, first the data is verified,if any errors and rectify it the
 
 PIBX file Link: https://drive.google.com/file/d/12bnyuYp7mQ7WsWo06BWgBuvNP0y5o6E7/view?usp=sharing.
 
-PDF link: https://drive.google.com/file/d/1he7F_udb3E5vK8Y7GBInqlxiEllpexIg/view?usp=sharing 
+PDF link: https:https://drive.google.com/file/d/1AZVDChyFQMjLr2zljCOJTonNBlOkdod5/view?usp=sharing.
+
+CANVA link: https://www.canva.com/design/DAF4DUyPi8A/Mtbtk79NAKgbK3rrHvvWhw/edit?utm_content=DAF4DUyPi8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.
