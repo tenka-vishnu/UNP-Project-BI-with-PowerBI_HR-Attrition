@@ -1,4 +1,4 @@
-# UNP-Project-BI-with-PowerBI_HR-Attrition
+# UNP-Project-BI-with-PowerBI_HUMAN RESOURCES DATA
 
 Completed this project as part of my BI with PowerBI Internship with United Network of Professionals (UNP).
 
