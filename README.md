@@ -4,7 +4,7 @@ Completed this project as part of my BI with PowerBI Internship with United Netw
 
 Key highlights:
 
-With the given data, first the data is verified,if any errors and rectify it then the data is transformed and modeled using Power BI Desktop, and then published to the Power BI service with advanced features,such as DAX formulas, measures, calculated columns, and custom visuals, to enhance the data analysis and presentation.
+POWER BI project as a part of internship with UNITED NETWORK OF PROFESSIONALS key takeaways : "Optimize workforce management with a HR Employee Attrition Data Project using Power BI. Visualize key attrition metrics, analyze trends, and empower decision-makers with actionable insights for effective talent retention and strategic HR planning."
 
 PIBX file Link: https://drive.google.com/file/d/12bnyuYp7mQ7WsWo06BWgBuvNP0y5o6E7/view?usp=sharing.
 
