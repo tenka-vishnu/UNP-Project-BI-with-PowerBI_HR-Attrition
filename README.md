@@ -8,4 +8,4 @@ With the given data, first the data is verified,if any errors and rectify it the
 
 PIBX file Link: https://drive.google.com/file/d/12bnyuYp7mQ7WsWo06BWgBuvNP0y5o6E7/view?usp=sharing.
 
-PDF link: https: https://drive.google.com/file/d/1XX8gYqH0MOg0EM8B26szhvE_usjNk1Cb/view?usp=sharing
+PDF link: https: https://drive.google.com/file/d/1AGqDZAxK64QeRsdLInBnd5Oqhu9wcTx_/view?usp=sharing.
