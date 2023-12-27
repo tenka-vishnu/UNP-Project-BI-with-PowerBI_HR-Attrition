@@ -1,4 +1,4 @@
-# UNP-Project-BI-with-PowerBI_HUMAN RESOURCES DATA
+# UNP-Project-BI-with-PowerBI_HUMAN RESOURCES
 
 Completed this project as part of my BI with PowerBI Internship with United Network of Professionals (UNP).
 
