@@ -8,4 +8,4 @@ POWER BI project as a part of internship with UNITED NETWORK OF PROFESSIONALS ke
 
 PIBX file Link: https://drive.google.com/file/d/12bnyuYp7mQ7WsWo06BWgBuvNP0y5o6E7/view?usp=sharing.
 
-PDF link: https: https://drive.google.com/file/d/1AGqDZAxK64QeRsdLInBnd5Oqhu9wcTx_/view?usp=sharing.
+PDF link: https://drive.google.com/file/d/1T4xMtiBe4O067KRf1yDbMsjSCujhC_hF/view?usp=sharing.
